@@ -1,4 +1,4 @@
-# AzureIA_GenerativeIA
+# AzureIA_GenerativeIA "Em Contrução"
 Objetivo é apresentar o recurso de Inteligência Artificial Generativa
 
 
