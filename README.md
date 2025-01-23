@@ -29,4 +29,4 @@ Objetivo é apresentar o recurso de Inteligência Artificial Generativa
 
 04 - Integrado nas ferramentas Microsoft. Exemplo: Office 365.
 
-Na documentação apresenta algumas forma que pode ser utilizado.
+Na documentação apresenta algumas formas que pode ser utilizado.
